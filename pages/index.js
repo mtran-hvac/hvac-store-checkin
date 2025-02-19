@@ -32,10 +32,15 @@ export default function Home() {
             return alert("Please enter a valid 7-digit order number starting with 1.");
         }
 
-        if (reason !== "Pay for / Pick-Up Existing Order" && reason !== "Return/Exchange" &&
-            !unknownAccount && (!/^1\d{4}$/.test(accountNumber) || !phoneNumber)) {
+        if (
+            reason !== "Pay for / Pick-Up Existing Order" &&
+            reason !== "Return/Exchange" &&
+            !unknownAccount &&
+            !(/^1\d{4}$/.test(accountNumber) || phoneNumber.trim().length > 0)
+        ) {
             return alert("Please enter a valid 5-digit account number starting with 1 or provide a phone number.");
         }
+
 
         addCustomer(name, reason, orderNumber, accountNumber, phoneNumber, unknownAccount);
         setName("");

@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\context",
     "\\pages",
-    "\\pages\\api",
-    "\\styles",
     "\\utils"
   ],
+  "SelectedNode": "\\pages\\index.js",
   "PreviewInSolutionExplorer": false
 }

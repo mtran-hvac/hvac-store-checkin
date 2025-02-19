@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\utils\\firebase.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\firebase.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\.env.local||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env.local||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\context\\QueueContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:context\\QueueContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\tv.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\tv.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\_app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\_app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\utils\\smsService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\smsService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\styles\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\tailwind.config.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tailwind.config.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tv.js",
+              "DocumentMoniker": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\tv.js",
+              "RelativeDocumentMoniker": "pages\\tv.js",
+              "ToolTip": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\tv.js",
+              "RelativeToolTip": "pages\\tv.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-17T02:16:37.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "firebase.js",
+              "DocumentMoniker": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\utils\\firebase.js",
+              "RelativeDocumentMoniker": "utils\\firebase.js",
+              "ToolTip": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\utils\\firebase.js",
+              "RelativeToolTip": "utils\\firebase.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-17T02:02:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_app.js",
+              "DocumentMoniker": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\_app.js",
+              "RelativeDocumentMoniker": "pages\\_app.js",
+              "ToolTip": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\_app.js",
+              "RelativeToolTip": "pages\\_app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-17T01:37:33.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueContext.js",
+              "DocumentMoniker": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\context\\QueueContext.js",
+              "RelativeDocumentMoniker": "context\\QueueContext.js",
+              "ToolTip": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\context\\QueueContext.js",
+              "RelativeToolTip": "context\\QueueContext.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-17T01:37:09.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\dashboard.js",
+              "RelativeDocumentMoniker": "pages\\dashboard.js",
+              "ToolTip": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\dashboard.js",
+              "RelativeToolTip": "pages\\dashboard.js",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-17T01:31:20.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".env.local",
+              "DocumentMoniker": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\.env.local",
+              "RelativeDocumentMoniker": ".env.local",
+              "ToolTip": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\.env.local",
+              "RelativeToolTip": ".env.local",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-17T00:26:47.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\index.js",
+              "RelativeDocumentMoniker": "pages\\index.js",
+              "ToolTip": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\pages\\index.js",
+              "RelativeToolTip": "pages\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-16T23:58:52.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "smsService.js",
+              "DocumentMoniker": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\utils\\smsService.js",
+              "RelativeDocumentMoniker": "utils\\smsService.js",
+              "ToolTip": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\utils\\smsService.js",
+              "RelativeToolTip": "utils\\smsService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-17T00:17:20.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "globals.css",
+              "DocumentMoniker": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\styles\\globals.css",
+              "RelativeDocumentMoniker": "styles\\globals.css",
+              "ToolTip": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\styles\\globals.css",
+              "RelativeToolTip": "styles\\globals.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-16T23:58:01.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tailwind.config.mjs",
+              "DocumentMoniker": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\tailwind.config.mjs",
+              "RelativeDocumentMoniker": "tailwind.config.mjs",
+              "ToolTip": "C:\\Users\\Michael\\OneDrive\\HVAC Work\\CODING DEVELOPING APPS\\APPS\\hvac-store-checkin\\app\\tailwind.config.mjs",
+              "RelativeToolTip": "tailwind.config.mjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-16T23:53:26.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
